@@ -33,7 +33,7 @@ $ sudo make install
 ## Step 4: Create Personal information Exchange (Pfx)
 ```openssl pkcs12 -export -out filename.pfx -inkey filename.key -in filename.crt```
 
-# Generate Online
+# Generate SSL Certificate Online
 ## SSL For Free
 [SSLForFree.Com](https://www.sslforfree.com/)
 
